@@ -1,0 +1,22 @@
+<svg id="icon-loca" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_123" data-name="사각형 123" width="28" height="23.152" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="사각형_115" data-name="사각형 115" width="40" height="40" fill="none"/>
+  <g id="그룹_92" data-name="그룹 92" transform="translate(6 7.999)">
+    <path id="패스_68" data-name="패스 68" d="M.5,10.306v12l4.351-2.4H14.5v-9.6Z" fill="#fff"/>
+    <g id="그룹_89" data-name="그룹 89">
+      <g id="그룹_88" data-name="그룹 88" clip-path="url(#clip-path)">
+        <path id="패스_69" data-name="패스 69" d="M14.5,10.306v9.6H4.851L.5,22.306v-12Z" fill="#fafafa" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <path id="패스_70" data-name="패스 70" d="M7.5.5V14.9H21.284L27.5,18.5V.5Z" fill="#fafafa"/>
+    <g id="그룹_91" data-name="그룹 91">
+      <g id="그룹_90" data-name="그룹 90" clip-path="url(#clip-path)">
+        <path id="패스_71" data-name="패스 71" d="M7.5.5V14.9H21.284L27.5,18.5V.5Z" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

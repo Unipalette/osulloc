@@ -1,0 +1,7 @@
+<svg id="icon-close" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="사각형_3" data-name="사각형 3" width="24" height="24" fill="none"/>
+  <g id="그룹_1" data-name="그룹 1" transform="translate(-63 -45)">
+    <path id="패스_1" data-name="패스 1" d="M0,0H.992V17.851H0Z" transform="translate(68.338 51.039) rotate(-45)" fill="#767676"/>
+    <path id="패스_2" data-name="패스 2" d="M0,17.851H.992V0H0Z" transform="translate(69.039 63.662) rotate(-135)" fill="#767676"/>
+  </g>
+</svg>

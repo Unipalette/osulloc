@@ -1,0 +1,16 @@
+<svg id="icon-mem" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_119" data-name="사각형 119" width="40" height="40" fill="none" stroke="#555" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_85" data-name="그룹 85" clip-path="url(#clip-path)">
+    <path id="패스_64" data-name="패스 64" d="M22.3,22.964c-2.225,2.225-6.265,1.79-6.265,1.79s-.434-4.04,1.789-6.265,6.265-1.79,6.265-1.79S24.524,20.74,22.3,22.964Z" transform="translate(-0.061 -0.051)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_6" data-name="선 6" y1="3.586" x2="3.586" transform="translate(20.441 16.649)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="패스_65" data-name="패스 65" d="M20.218,17.077v3.455h3.423" transform="translate(0.003 -0.045)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="선_7" data-name="선 7" x1="4.232" y2="4.232" transform="translate(15.989 20.487)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="사각형_117" data-name="사각형 117" width="22.337" height="20.307" transform="translate(8.831 10.523)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="사각형_118" data-name="사각형 118" width="16.245" height="3.554" transform="translate(11.877 31)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="패스_66" data-name="패스 66" d="M27.871,10.743a3.172,3.172,0,0,0-.659-3.835l-.286-.27a3.688,3.688,0,0,0-4.989,0L20.123,8.343,18.308,6.638a3.687,3.687,0,0,0-4.988,0l-.287.27a3.176,3.176,0,0,0-.775,3.594" transform="translate(-0.123 -0.22)" fill="none" stroke="#555" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

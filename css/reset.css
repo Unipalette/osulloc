@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* rem 사이즈 조정 */
+html {
+  width: 100vw;
+  font-size: 62.5%;
+  margin: 0 auto;
+}
+/* 공통 스타일 */
+:root {
+  --color-white: #fafafa;
+  --color-black: #212121;
+  --color-gray: #767676;
+}
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* 컨테이너 설정 */
+.container {
+  width: 122.4rem;
+  padding: 0 1.2rem;
+  margin: 0 auto;
+  /* background: rgba(0, 0, 0, 0.2); */
+}
+section {
+  width: 100vw;
+}
+footer {
+  width: 100vw;
+}
+/* 여백 초기화 & 박스사이징 보더박스 설정*/
+body,
+div,
+ul,
+li,
+dl,
+dd,
+dt,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+fieldset,
+legend,
+p,
+select,
+table,
+th,
+td,
+tr,
+textarea,
+button,
+form,
+figure,
+figcaption {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* a 초기화 */
+a {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  color: var(--color-black);
+}
+/* 폰트 초기화 */
+body,
+input,
+textarea,
+select,
+button,
+table {
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto,
+    "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR",
+    "Malgun Gothic", sans-serif;
+  letter-spacing: -0.38px;
+  font-weight: 200;
+}
+/* 주소 스타일 초기화 */
+address {
+  font-style: normal;
+}
+/* 블릿기호 초기화 */
+ul,
+li {
+  list-style: none;
+}
+/* 제목 태그 초기화 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 14px;
+  font-weight: normal;
+}
+/* 이미지 태그 초기화 */
+img {
+  display: block;
+}
+/* 버튼  초기화 */
+button {
+  border: none;
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+/* 인풋창 초기화 */
+input {
+  outline: none;
+  border: none;
+}
+/* 셀렉트 초기화 */
+select {
+  border: none;
+}
+/* IR 효과 */
+.ir_pm {
+  display: block;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
+  text-indent: -9999px;
+}
+/* 의미있는 이미지의 대체 텍스트를 제공하는 경우(Phark Method) */
+
+.ir_wa {
+  display: block;
+  overflow: hidden;
+  position: relative;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+} /* 의미있는 이미지의 대체 텍스트로 이미지가 없어도 대체 텍스트를 보여주고자 할 때(WA IR) */
+
+.ir_so {
+  overflow: hidden;
+  position: absolute;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  text-indent: -9999px;
+}
+/* 대체 텍스트가 아닌 접근성을 위한 숨김 텍스트를 제공할 때 */
+
+/* 반응형 */
+
+video,
+img {
+  width: 100%;
+}
+
+/* 스크롤 없애기 */
